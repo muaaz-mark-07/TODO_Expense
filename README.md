@@ -65,7 +65,7 @@ A production-grade, single-file frontend project** combining a smart To-Do List 
  🚀 Getting Started
 bash
 # Clone the repo
-git clone https://github.com/muaaz-mark-07/flowdesk.git
+[git clone https://github.com/muaaz-mark-07/flowdesk.git](https://github.com/muaaz-mark-07/TODO_Expense.git)
 
 # Open in browser
 open todo-expense-tracker.html
