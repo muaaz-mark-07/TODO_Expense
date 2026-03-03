@@ -71,11 +71,6 @@ git clone https://github.com/your-username/flowdesk.git
 open todo-expense-tracker.html
 
 
-📸 Screenshots
-
-*(Add screenshots of the Tasks and Finance panels here)*
-
-
 
  🙋‍♂️ Author
 
